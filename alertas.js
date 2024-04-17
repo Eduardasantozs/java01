@@ -1,4 +1,3 @@
-document.getElementById("botaoExterno").addEventListener("click", function() {
-    alert("Você clicou no botão!");
-});
-
+function mostrarMensagem(){
+    alert ('VOCÊ CLICOU NO BOTÃO EXEMPLO 2');
+}
